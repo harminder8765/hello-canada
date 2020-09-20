@@ -1,2 +1,2 @@
 # hello-canada
-git command representation
+git&github representation
