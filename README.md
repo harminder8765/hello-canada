@@ -1,2 +1,2 @@
 # hello-canada
-assignment representation
+git command representation
